@@ -11,4 +11,4 @@ Scatter plot and pair plot for deeper insights
 📈 This exercise helped me understand how to gain insights from raw data and visualize trends effectively. It’s a great reminder of how powerful Python is in the world of data analysis!
  📂 Dataset: 2016-17 Federal School Code List
  💻 Tools: Python, pandas, matplotlib, seaborn
-Feel free to check out the code below and let me know your thoughts! Happy to connect and discuss data visualization ideas! 🙌 
+Feel free to check out the code below and let me know your thoughts! Happy to connect and discuss data visualization ideas! 🙌
