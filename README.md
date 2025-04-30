@@ -7,7 +7,7 @@ Bar & line charts showing the number of schools by state
 Pie chart highlighting the top 5 states
 Heatmap of numeric correlations
 Boxplots to detect outliers
-Scatter plot and pair plot for deeper insights
+Scatter plot and pair plot for deeper insight
 📈 This exercise helped me understand how to gain insights from raw data and visualize trends effectively. It’s a great reminder of how powerful Python is in the world of data analysis!
  📂 Dataset: 2016-17 Federal School Code List
  💻 Tools: Python, pandas, matplotlib, seaborn
